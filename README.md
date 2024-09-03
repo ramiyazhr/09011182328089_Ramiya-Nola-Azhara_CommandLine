@@ -330,9 +330,11 @@ Jika dijalankan tanpa argumen (cd saja), perintah ini akan membawa Anda ke direk
 Menampilkan informasi rinci tentang file atau direktori.
 
 
-### 47. cut
+### 47. ping
 
-Memotong bagian tertentu dari baris dalam file.
+![ping](https://github.com/user-attachments/assets/283ace96-b668-4510-8ed9-ac48dfd6d101)
+
+Untuk mengirim paket ICMP ke host untuk memeriksa konektivitas jaringan.
 
 
 ### 48. type
@@ -352,11 +354,11 @@ Digunakan untuk membersihkan tampilan terminal dengan menghapus semua teks yang 
 
 ### 50. exit
 
+![exit](https://github.com/user-attachments/assets/883fb2d9-978b-4b2d-bd13-1a6086edd764)
+
 Keluar dari shell atau terminal.
 
 
-### find 
 
-Mencari file atau direktori di dalam direktori tertentu.
 
 
