@@ -214,13 +214,14 @@ Mengubah kata sandi pengguna saat ini.
 
 ### 31. uptime
 
+![uptime](https://github.com/user-attachments/assets/c73d35a6-41ca-4ac0-b438-11ba4083cd17)
 
 Menampilkan waktu berapa lama sistem telah berjalan sejak terakhir kali dinyalakan (uptime), bersama dengan jumlah pengguna yang sedang login dan beban sistem rata-rata (load average).
 
 
-
 ### 32. hostnamectl
 
+![hostnamectl](https://github.com/user-attachments/assets/0a5c259d-751a-445b-aa6d-77c11446d973)
 
 Menampilkan atau mengatur informasi nama host dari sistem.
 
