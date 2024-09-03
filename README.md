@@ -179,6 +179,7 @@ Menampilkan riwayat perintah yang telah dijalankan di terminal.
 
 ### 26. ps aux
 
+![px aux](https://github.com/user-attachments/assets/d5079968-866d-4a91-94ea-74d589a14646)
 
 Menampilkan semua proses yang berjalan di sistem, termasuk proses dari pengguna lain.
 
@@ -228,26 +229,29 @@ Menampilkan atau mengatur informasi nama host dari sistem.
 
 ### 33. date +"%Y-%m-%d"
 
+![date %](https://github.com/user-attachments/assets/00768efa-39e0-44be-b8a0-a536a02b9e14)
 
 Menampilkan tanggal saat ini dalam format yang ditentukan
 
 
-
-
 ### 34. less
+
+![less](https://github.com/user-attachments/assets/4c55b6bc-e48a-4108-b93f-8b1579acf68f)
+![less 2](https://github.com/user-attachments/assets/ee1e4267-3311-4e03-8e61-269ed88c1077)
 
 Menampilkan isi file secara interaktif satu halaman pada satu waktu.
 
 
 ### 35. free
 
-Menampilkan informasi mengenai penggunaan memori.
+![free](https://github.com/user-attachments/assets/7bfdd7c6-4b6f-4038-b9e6-c035d7c03e86)
 
+Menampilkan informasi mengenai penggunaan memori.
 
 
 ### 36. wc
 
-
+![wc](https://github.com/user-attachments/assets/6dfbda0c-9efb-4d0d-8786-4f03d1cc3452)
 
 Menampilkan jumlah baris, kata, dan karakter dalam sebuah file.
 
@@ -265,39 +269,49 @@ Membandingkan isi dari dua file dan menampilkan perbedaannya.
 
 ### 38. sort
 
+![sort](https://github.com/user-attachments/assets/03998e9b-c9f4-49bb-8a29-6d5bdfdec05e)
+
 Mengurutkan baris dalam sebuah file secara alfabetis.
 
 
 ### 39.file
 
+![file](https://github.com/user-attachments/assets/cee7168f-5f67-474c-919f-8e3cb4c6e384)
+
 Menampilkan jenis atau tipe dari file.
 
 
-
-
-
 ### 40.id
+
+![id](https://github.com/user-attachments/assets/4cdd4d17-bed6-47d2-b642-2578b054a5b3)
 
 Menampilkan ID pengguna dan grup dari pengguna yang sedang login.
 
 
 ### 41.head
 
+![head](https://github.com/user-attachments/assets/7699615c-0f84-414a-a5da-8758db500301)
+
 Menampilkan 10 baris pertama dari sebuah file.
 
 
 ### 42. tail
+
+![tail](https://github.com/user-attachments/assets/bb260b5c-af17-42d7-bba1-0307d20f9aaa)
 
 Menampilkan 10 baris terakhir dari sebuah file.
 
 
 ### 43. ps
 
+![ps](https://github.com/user-attachments/assets/9daa3031-010c-4f98-bab0-31fd7eb9eddc)
+
 Menampilkan daftar perintah yang telah Anda jalankan sebelumnya di terminal.  
 
 
 ### 44. whatis mkdir
 
+![whatis mkdir](https://github.com/user-attachments/assets/3e631138-0eb0-4de0-8a2a-5dcf1bdeca86)
 
 Menampilkan deskripsi singkat tentang perintah yang disebutkan. Ini memberikan gambaran singkat tentang apa yang dilakukan perintah tersebut.
 
