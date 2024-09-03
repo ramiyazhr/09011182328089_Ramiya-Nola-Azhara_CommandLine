@@ -262,13 +262,9 @@ Menampilkan jumlah baris, kata, dan karakter dalam sebuah file.
 
 ### 37. diff
 
-
-
+![diff](https://github.com/user-attachments/assets/df5eda68-34dd-4a4e-be72-84026792fab9)
 
 Membandingkan isi dari dua file dan menampilkan perbedaannya.
-
-
-
 
 
 ### 38. sort
@@ -320,17 +316,16 @@ Menampilkan daftar perintah yang telah Anda jalankan sebelumnya di terminal.
 Menampilkan deskripsi singkat tentang perintah yang disebutkan. Ini memberikan gambaran singkat tentang apa yang dilakukan perintah tersebut.
 
 
-
-
 ### 45. cd
 
-
+![cd](https://github.com/user-attachments/assets/74867de4-84c3-4f32-a63c-c13158911ba4)
 
 Jika dijalankan tanpa argumen (cd saja), perintah ini akan membawa Anda ke direktori home pengguna.
 
 
-
 ### 46. stat
+
+![stat](https://github.com/user-attachments/assets/359dc591-19d9-4f8c-bef9-615e306e8bef)
 
 Menampilkan informasi rinci tentang file atau direktori.
 
@@ -342,12 +337,17 @@ Memotong bagian tertentu dari baris dalam file.
 
 ### 48. type
 
+![type](https://github.com/user-attachments/assets/0fdc3db4-a933-4417-9af8-1f99e15eade9)
+
 Menampilkan informasi tentang jenis perintah (apakah itu built-in shell, alias, atau program yang dapat dieksekusi).
 
 
-### 49. jobs
+### 49. clear
 
-Menampilkan daftar pekerjaan yang sedang berjalan di shell saat ini.
+![clear 2](https://github.com/user-attachments/assets/d46e2309-1615-40a6-bb85-985a26270b17)
+![clear 4](https://github.com/user-attachments/assets/e06d4ee1-0114-4be9-b64a-6ffb1875bfef)
+
+Digunakan untuk membersihkan tampilan terminal dengan menghapus semua teks yang sebelumnya ditampilkan.
 
 
 ### 50. exit
