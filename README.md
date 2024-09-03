@@ -104,7 +104,7 @@ Menampilkan manual (panduan) perintah. Contoh: man ls untuk melihat manual perin
 
 ### 15. uname -s
 
-
+![uname -s](https://github.com/user-attachments/assets/3f605eaf-92af-430d-a084-ed13147f37ff)
 
 Menampilkan nama kernel dari sistem operasi
 
@@ -112,6 +112,7 @@ Menampilkan nama kernel dari sistem operasi
 
 ### 16. uname -n
 
+![uname -n](https://github.com/user-attachments/assets/aca74a87-3835-4fd1-9f7a-94174b735669)
 
 Menampilkan hostname jaringan dari mesin.
 
@@ -119,25 +120,28 @@ Menampilkan hostname jaringan dari mesin.
 
 ### 17. uname -r
 
+![uname -r](https://github.com/user-attachments/assets/39babbc9-5402-42a3-a4b6-dcc3d7e45695)
 
- memberikan informasi versi kernel yang digunakan oleh sistem operasi
-
-
-
+Memberikan informasi versi kernel yang digunakan oleh sistem operasi
 
 
 ### 18. uname -v
 
+![uname -v](https://github.com/user-attachments/assets/f8ae0bb3-fce6-4464-b7b7-244e49b33a4a)
 
 Menampilkan versi build dari kernel (biasanya termasuk tanggal dan waktu kompilasi).
 
 
-
 ### 19. uname -m
+
+![uname -m](https://github.com/user-attachments/assets/0ad6731d-aeb6-4d87-8a5a-76574675b33e)
 
 Menampilkan tipe arsitektur mesin (hardware).
 
+
 ### 20. uname --version
+
+![uname --version](https://github.com/user-attachments/assets/ba69ca3f-e44e-48c6-a543-756e222f8138)
 
 digunakan untuk menampilkan versi dari utilitas uname yang diinstal di sistem Anda.
 
