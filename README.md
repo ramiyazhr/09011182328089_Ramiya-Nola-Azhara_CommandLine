@@ -90,21 +90,21 @@ cat (concatenate) digunakan untuk menampilkan isi dari file ke layar terminal.
 
 ### 13. pwd
 
-
+![pwd](https://github.com/user-attachments/assets/e5e851f9-ebc9-4ca0-bf60-79891534dbd6)
 
 Menampilkan path (jalur) direktori kerja saat ini.
 
 
-
-
 ### 14. echo
 
+![echo](https://github.com/user-attachments/assets/d2e97041-d7a2-4ccc-9d38-3473445c4951)
 
 Menampilkan manual (panduan) perintah. Contoh: man ls untuk melihat manual perintah ls.
 
 
-
 ### 15. uname -s
+
+
 
 Menampilkan nama kernel dari sistem operasi
 
@@ -151,26 +151,28 @@ uname -a digunakan untuk menampilkan informasi detail tentang sistem operasi, te
 
 ### 22. df -h
 
+![df-h](https://github.com/user-attachments/assets/b6d3a130-0daa-4ebd-96a9-0e1bb42dbf05)
 
 Menampilkan penggunaan disk untuk semua sistem file (disk free). Opsi -h menampilkan output dalam format yang mudah dibaca (human-readable).
 
 
-
 ### 23. grep
+
+![grep](https://github.com/user-attachments/assets/5d381602-8e3a-412e-85b1-f9936b8b73b9)
 
 Mencari teks tertentu dalam sebuah file.
 
 
-
 ### 24. mv
+
+![mv](https://github.com/user-attachments/assets/19946ae2-bd85-4697-bef2-a0c8c09e439e)
 
 Memindahkan atau mengganti nama file atau direktori.
 
 
-
-
 ### 25. history
 
+![history](https://github.com/user-attachments/assets/51c18282-a22a-4887-8d5d-4d4218f4f054)
 
 Menampilkan riwayat perintah yang telah dijalankan di terminal.
 
@@ -184,24 +186,30 @@ Menampilkan semua proses yang berjalan di sistem, termasuk proses dari pengguna 
 
 ### 27. free -h
 
+![free -h](https://github.com/user-attachments/assets/078d61c7-6511-43a5-bcd3-53c6b1da167d)
+
 Menampilkan jumlah total, yang digunakan, dan memori bebas dalam sistem (RAM dan swap). Opsi -h berarti "human-readable", yang akan menampilkan ukuran dalam format yang mudah dibaca seperti KB, MB, atau GB.
 
+
 ### 28. df -i
+
+![df -i](https://github.com/user-attachments/assets/2db4c3d1-d56f-4d86-95b7-4094174ff78b)
 
 Menampilkan penggunaan inode pada sistem file. Inode adalah struktur data di sistem file Unix-like yang menyimpan informasi tentang file dan direktori. Opsi -i menampilkan informasi tentang inode yang digunakan dan tersedia, bukan ruang disk.
 
 
 ### 29. host name
 
+![host name](https://github.com/user-attachments/assets/d46eeab8-4df7-4f25-b180-a57f0120a615)
+
 Menampilkan nama host atau nama jaringan dari komputer.
-
-
 
 
 ### 30. passwd
 
-Mengubah kata sandi pengguna saat ini.
+![passwd](https://github.com/user-attachments/assets/8c08a903-0b2d-44a9-a532-f1034e52be2c)
 
+Mengubah kata sandi pengguna saat ini.
 
 
 ### 31. uptime
